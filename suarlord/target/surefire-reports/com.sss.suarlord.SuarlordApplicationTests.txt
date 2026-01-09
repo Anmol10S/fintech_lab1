@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.sss.suarlord.SuarlordApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.408 s -- in com.sss.suarlord.SuarlordApplicationTests
